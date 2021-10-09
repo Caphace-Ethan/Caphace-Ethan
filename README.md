@@ -1,5 +1,7 @@
 ## Hello 👋🏾, It's Ethani Caphace here
-
+<p align="center">
+<img width="350px" src="https://github.com/Caphace-Ethan/Ethani_Caphace/blob/main/Ethani_Caphace01.png" style="max-width: 100%;border-radius: 200px;">
+</p>
 I am a Machine Learning Engineer, and a Full stack Web Developer using Django Framework. 
 I love learning and experimenting technologies especially in Machine Learning field.
 
