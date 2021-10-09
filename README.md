@@ -1,11 +1,11 @@
-### Hello 👋🏾, It's Ethani Caphace here
+## Hello 👋🏾, It's Ethani Caphace here
 
 I am a Machine Learning Engineer, and a Full stack Web Developer using Django Framework. 
 I love learning and experimenting technologies especially in Machine Learning field.
 
 Currently, I am looking for job opportunities in Machine learning field/area.
 
-#### About Ethani Caphace
+### About Ethani Caphace
 
 - :man_student: I have completed a 3 months (July-October 2021) intensive training in Machine Learning and Data Engineering at [10Academy](https://www.10academy.org)
 - :man_student: I have studied Bachelor's of Engineering in Electronics and Telecommunication at [Dar Es Salaam Institute of Technology](https://www.dit.ac.tz)
@@ -19,7 +19,7 @@ Currently, I am looking for job opportunities in Machine learning field/area.
 - ☀️ I am fluent in Python, and Django framework
 - ☀️ See below the the Technologies,  Algorithms, Libraries and Tools i have worked with
 
-#### Technologies i have worked with
+### Technologies i have worked with
 ##### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;&nbsp;
 ![Go](https://img.shields.io/badge/Go-GoLang-blue)&nbsp;&nbsp;
@@ -35,10 +35,19 @@ Currently, I am looking for job opportunities in Machine learning field/area.
 ![DBT](https://img.shields.io/badge/-DBT-05122A?style=flat&logo=DBT)&nbsp;
 ![scikit-learn](https://img.shields.io/badge/-scikit%20learn-05122A?style=flat&logo=scikit%20learn)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow)&nbsp;
+![Librosa](https://img.shields.io/badge/-Librosa-05122A?style=flat&logo=Librosa)&nbsp;
 ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=Keras)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=Flask)&nbsp;
 ![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=Streamlit)&nbsp;
 ![Superset](https://img.shields.io/badge/-Superset-05122A?style=flat&logo=Superset)&nbsp;
+
+
+##### ML Algorithms
+![Linear Regression](https://img.shields.io/badge/-Linear--Regression-blue)&nbsp;
+![Logistic-Regression](https://img.shields.io/badge/-Logistic--Regression-blue)&nbsp;
+![CNN](https://img.shields.io/badge/-CNN-05122A?style=flat&logo=CNN)&nbsp;
+![Decision-tree](https://img.shields.io/badge/-Decision--tree-blue)&nbsp;
+
 
 ##### Databases
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite)&nbsp;
@@ -54,11 +63,11 @@ Currently, I am looking for job opportunities in Machine learning field/area.
 ![Travis%20CI](https://img.shields.io/badge/-Travis%20CI-05122A?style=flat&logo=Travis%20CI)&nbsp;
 
 
-## GitHub Analytics
-<p align="center">
+### GitHub Analytics
+<p align="left">
   <a href="https://github.com/Caphace-Ethan">
-    <img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Caphace-Ethan&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=060B0D"/>
-    <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=Caphace-Ethan&theme=black-ice&hide_border=true&stroke=0000&background=060B0D">
+    <img width="450px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Caphace-Ethan&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=060B0D"/>
+    <img width="450px" src="https://github-readme-streak-stats.herokuapp.com?user=Caphace-Ethan&theme=black-ice&hide_border=true&stroke=0000&background=060B0D">
   </a>
-  <a href="https://github.com/Caphace-Ethan"><img alt="Caphace-Ethan's Activity Graph"  width="804px" src="https://activity-graph.herokuapp.com/graph?username=Caphace-Ethan&theme=react-dark&hide_border=true" /></a>
+  <a href="https://github.com/Caphace-Ethan"><img alt="Caphace-Ethan's Activity Graph"  width="1200px" src="https://activity-graph.herokuapp.com/graph?username=Caphace-Ethan&theme=react-dark&hide_border=true" /></a>
 </p>
