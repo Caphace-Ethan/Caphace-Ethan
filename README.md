@@ -62,19 +62,3 @@ Currently, I am looking for job opportunities in Machine learning field/area.
   </a>
   <a href="https://github.com/Caphace-Ethan"><img alt="Caphace-Ethan's Activity Graph"  width="804px" src="https://activity-graph.herokuapp.com/graph?username=Caphace-Ethan&theme=react-dark&hide_border=true" /></a>
 </p>
-
-:point_right: Linear and Logistic Regression, :point_right: Decision tree, 
-  - :point_right: Linear and Logistic Regression, 
-  - :point_right: Decision tree, 
-  - :point_right: CNN, 
-  - :point_right: TensorFlow, 
-  - :point_right: Librosa, 
-  - :point_right: Scikit-learn, 
-  - :point_right: Apache-Kafka, 
-  - :point_right: Spark, 
-  - :point_right: Airflow, 
-  - :point_right: Docker, 
-  - :point_right: Superset, 
-  - :point_right: Flask, and 
-  - :point_right: Django.
-- ✍️ Writing tech blog posts over Internet.
