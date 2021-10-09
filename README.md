@@ -11,38 +11,39 @@ Currently, I am looking for job opportunities in Machine learning field/area.
 - :man_student: I have studied Bachelor's of Engineering in Electronics and Telecommunication at [Dar Es Salaam Institute of Technology](https://www.dit.ac.tz)
 - 💻 Currently i am working as an ICT Researcher and Innovator - Internship (October 2020 to-date) at [eGA](https://www.ega.go.tz). 
 - ☀️ I'm Strengthening my Machine Learning skills by learning and practicing more on the following ML libraries, tools and Algorithms.
-   - PyToch, Keras, NoSQL, OpenCV, Spacy, and Spark
+    
+    ![PyToch](https://img.shields.io/badge/PyToch-blue)&nbsp; ![Keras](https://img.shields.io/badge/Keras-yellow)&nbsp; 
+    ![NoSQL](https://img.shields.io/badge/NoSQL-blue)&nbsp; ![OpenCV](https://img.shields.io/badge/OpenCV-yellow)&nbsp; 
+    ![Spacy](https://img.shields.io/badge/Spacy-blue)&nbsp; ![Spark](https://img.shields.io/badge/Spark-yellow)&nbsp;
+    
 - ☀️ I am fluent in Python, and Django framework
 - ☀️ See below the the Technologies,  Algorithms, Libraries and Tools i have worked with
 
 #### Technologies i have worked with
 ##### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B)&nbsp;&nbsp;
 ![Go](https://img.shields.io/badge/Go-GoLang-blue)&nbsp;&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B)&nbsp;&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C%2B%2B)&nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
 ##### Frameworks/Libraries
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=NumPy)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas)&nbsp;
 ![Spark](https://img.shields.io/badge/-Spark-05122A?style=flat&logo=Spark)&nbsp;
+![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=Kafka)&nbsp;
+![DBT](https://img.shields.io/badge/-DBT-05122A?style=flat&logo=DBT)&nbsp;
 ![scikit-learn](https://img.shields.io/badge/-scikit%20learn-05122A?style=flat&logo=scikit%20learn)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow)&nbsp;
 ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=Keras)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=Flask)&nbsp;
 ![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=Streamlit)&nbsp;
-![Pytest](https://img.shields.io/badge/-Pytest-05122A?style=flat&logo=Pytest)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js)&nbsp;
-![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=Express)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
-![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=Jest)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)&nbsp;
+
 
 ##### Databases
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite)&nbsp;
 ![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=Mysql)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
-![Cloud Firestore](https://img.shields.io/badge/-Cloud%20Firestore-05122A?style=flat&logo=Cloud%20Firestore)&nbsp;
 
 ##### Tools
 ![MLflow](https://img.shields.io/badge/-MLflow-05122A?style=flat&logo=MLflow)&nbsp;
@@ -51,6 +52,7 @@ Currently, I am looking for job opportunities in Machine learning field/area.
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
 ![github actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=GitHub%20Actions)&nbsp;
 ![Travis%20CI](https://img.shields.io/badge/-Travis%20CI-05122A?style=flat&logo=Travis%20CI)&nbsp;
+![Superset](https://img.shields.io/badge/-Superset-05122A?style=flat&logo=Superset)&nbsp;
 
 ## GitHub Analytics
 <p align="center">
