@@ -3,7 +3,7 @@
 <img width="350px" src="https://github.com/Caphace-Ethan/Ethani_Caphace/blob/main/Ethani_Caphace01.png" style="max-width: 100%;border-radius: 200px;">
 </p>
 I am a Machine Learning Engineer, and a Full stack Web Developer using Django Framework. 
-I love learning and experimenting technologies especially in Machine Learning field.
+I like learning and experimenting technologies especially in Machine Learning field.
 
 Currently, I am looking for job opportunities in Machine learning field/area.
 
