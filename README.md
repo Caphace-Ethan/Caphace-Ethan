@@ -79,4 +79,5 @@ Currently, I am looking for job opportunities in Machine learning field/area.
     <a href="mailto:ethancaphace@gmail.com">G-Mail</a> &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:ethancaphace@icloud.com">iCloud-Mail</a> &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/ethani-caphace-697464158">LinkedIN</a> &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.sites.google/view/ethani">Profile</a> &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
