@@ -75,8 +75,8 @@ Currently, I am looking for job opportunities in Machine learning field/area.
 </p>
 
 ### Say Hello
-<p align="center">
-    <a href="https://github.com/Caphace-Ethan">G-Mail</a>
-    <a href="https://github.com/Caphace-Ethan">iCloud-Mail</a>
-    <a href="https://github.com/Caphace-Ethan">LinkedIN</a>
+<p align="left">
+    <a href="mailto:ethancaphace@gmail.com">G-Mail</a>
+    <a href="mailto:ethancaphace@gmail.com">iCloud-Mail</a>
+    <a href="mailto:ethancaphace@gmail.com">LinkedIN</a>
 </p>
