@@ -1,4 +1,4 @@
-## Hello 👋🏾, It's Ethani Caphace here
+## Hello 👋🏾 It's Ethani Caphace here
 <p align="center">
 <img width="350px" src="https://github.com/Caphace-Ethan/Ethani_Caphace/blob/main/Ethani_Caphace01.png" style="max-width: 100%;border-radius: 200px;">
 </p>
