@@ -73,3 +73,8 @@ Currently, I am looking for job opportunities in Machine learning field/area.
   </a>
   <a href="https://github.com/Caphace-Ethan"><img alt="Caphace-Ethan's Activity Graph"  width="1200px" src="https://activity-graph.herokuapp.com/graph?username=Caphace-Ethan&theme=react-dark&hide_border=true" /></a>
 </p>
+
+### Say Hello
+<p align="center">
+    <a href="https://github.com/Caphace-Ethan"></a>
+</p>
