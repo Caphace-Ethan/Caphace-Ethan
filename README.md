@@ -76,5 +76,7 @@ Currently, I am looking for job opportunities in Machine learning field/area.
 
 ### Say Hello
 <p align="center">
-    <a href="https://github.com/Caphace-Ethan"></a>
+    <a href="https://github.com/Caphace-Ethan">G-Mail</a>
+    <a href="https://github.com/Caphace-Ethan">iCloud-Mail</a>
+    <a href="https://github.com/Caphace-Ethan">LinkedIN</a>
 </p>
