@@ -11,7 +11,7 @@ Currently, I am looking for job opportunities in Machine learning field/area.
 
 - :man_student: I have completed a 3 months (June-October 2021) intensive training in Machine Learning and Data Engineering at [10Academy](https://www.10academy.org)
 - :man_student: I have studied Bachelor's of Engineering in Electronics and Telecommunication at [Dar Es Salaam Institute of Technology](https://www.dit.ac.tz)
-- 💻 Currently i am working as an ICT Researcher and Innovator - Internship (October 2020 to-date) at [eGA](https://www.ega.go.tz). 
+- 💻 I worked as an ICT Researcher and Innovator - Internship (October 2020 to-November 2021) at [eGA](https://www.ega.go.tz). 
 - ☀️ I'm Strengthening my Machine Learning skills by learning and practicing more on the following ML libraries, tools and Algorithms.
     
     ![PyToch](https://img.shields.io/badge/PyToch-blue)&nbsp;&nbsp; ![Keras](https://img.shields.io/badge/Keras-yellow)&nbsp;&nbsp; 
