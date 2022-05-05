@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caphace-ethan" alt="caphace-ethan" /></a> </p>
 
-A passionate Machine Learning Engineer, Programmer, and Back-End web developer from Tanzania. 
+A passionate Electronic and Telecommunication Engineer(by professional), Machine Learning Engineer, Programmer, and Back-End web developer from Tanzania. 
 I like learning and experimenting technologies especially in Machine Learning, Data Engineering, and Developing Web applications.
 
 Currently, I am looking for job opportunities in Machine learning field/area.
