@@ -7,10 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caphace-ethan" alt="caphace-ethan" /></a> </p>
 
-A passionate Electronic and Telecommunication Engineer(by professional), Machine Learning Engineer, Programmer, and Back-End web developer from Tanzania. 
-I like learning and experimenting technologies especially in Machine Learning, Data Engineering, and Developing Web applications.
-
-Currently, I am looking for job opportunities in Machine learning field/area.
+Application Programmer with advanced expertise in Java(advanced) and Python(advanced), specialized in backend development using Spring Boot (also Django, and Laravel frameworks). Skilled in building scalable, high-performance web applications and APIs, with a deep understanding of modern software architecture and clean coding practices. Proven ability to deliver robust solutions across diverse domains, adhering to agile methodologies and the full software development lifecycle.
 
 ### About Ethani Caphace
 
