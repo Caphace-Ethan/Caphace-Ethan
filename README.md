@@ -9,7 +9,7 @@
 
 Application Programmer with advanced expertise in Java(advanced) and Python(advanced), specialized in backend development using Spring Boot (also Django, and Laravel frameworks). Skilled in building scalable, high-performance web applications and APIs, with a deep understanding of modern software architecture and clean coding practices. Proven ability to deliver robust solutions across diverse domains, adhering to agile methodologies and the full software development lifecycle.
 
-### About Ethani Caphace
+### About Ethani Caphace (pending update ...)
 
 - :man_student: I have completed a 3 months (June-October 2021) intensive training in Machine Learning and Data Engineering at [10Academy](https://www.10academy.org)
 - :man_student: I have studied Bachelor's of Engineering in Electronics and Telecommunication at [Dar Es Salaam Institute of Technology](https://www.dit.ac.tz)
